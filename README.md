@@ -7,7 +7,7 @@
 
 
 ## Skills
-<img src="https://user-images.githubusercontent.com/62670505/195007613-18dce7c2-a73d-43eb-b454-ffbabfa802b6.png" width="70" height="70" />
-<img src="https://mvpcluster.com/wp-content/uploads/2016/04/sql-server-1.png" width="70" height="70" />
+<img src="https://user-images.githubusercontent.com/62670505/195007613-18dce7c2-a73d-43eb-b454-ffbabfa802b6.png" width="70" height="70" /> <img src="https://mvpcluster.com/wp-content/uploads/2016/04/sql-server-1.png" width="70" height="70" />
+
 
 
