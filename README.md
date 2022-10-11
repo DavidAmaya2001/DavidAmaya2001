@@ -7,4 +7,5 @@
 
 
 ##Skills
-![C Sharp](https://cdn-images-1.medium.com/max/1200/1*P0wJXYGI3KT37bpvuyzMGw.png)
+![C Sharp](![image](https://user-images.githubusercontent.com/62670505/195007132-1ad1429f-957a-4e75-bf46-ddc472950f12.png)
+
