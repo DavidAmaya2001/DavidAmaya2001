@@ -7,5 +7,6 @@
 
 
 ## Skills
-![](https://user-images.githubusercontent.com/62670505/195007132-1ad1429f-957a-4e75-bf46-ddc472950f12.png | width=50)
+<img src="https://user-images.githubusercontent.com/62670505/195007613-18dce7c2-a73d-43eb-b454-ffbabfa802b6.png" width="50" height="50" />
+
 
