@@ -3,4 +3,4 @@
 ## TuTioElPollo  ( David Amaya )
 ## Estudiante de Ingenieria en Ciencias de la Computación
 
-* Instagram: **[Instagram](https://www.instagram.com/tutioelpollo)** :v:
+* Instagram (Programming | Geometry Dash): **[TuTioElPollo](https://www.instagram.com/tutioelpollo)**
