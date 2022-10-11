@@ -7,7 +7,7 @@
 
 
 ## Skills
-<img src="https://user-images.githubusercontent.com/62670505/195007613-18dce7c2-a73d-43eb-b454-ffbabfa802b6.png" width="70" height="70" /> <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" padding-left="20" width="60" height="60" />
+<img src="https://user-images.githubusercontent.com/62670505/195007613-18dce7c2-a73d-43eb-b454-ffbabfa802b6.png" width="70" height="70" /> <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" padding-left="40" width="60" height="60" />
 
 
 
