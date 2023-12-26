@@ -11,7 +11,7 @@
 ## Skills
 <div style="display:inline-block">
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" width="90" height="90"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/2560px-Spring_Framework_Logo_2018.svg.png" width="240" height="90"/>
+  <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2021/11/image-19.png?ssl=1" width="180" height="90"/>
 <img src="https://user-images.githubusercontent.com/62670505/195007613-18dce7c2-a73d-43eb-b454-ffbabfa802b6.png" width="90" height="90" />         
 <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" width="60" height="60" />
 <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" width="70" height="70" />
