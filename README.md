@@ -2,7 +2,7 @@
 
 ## David Amaya
 <p style="font-size: 10px">TuTioElPollo</p>
-## Computer Science Engineering
+Computer Science Engineering
 
 * LinkedIn ( Profesional Profile ): **[David Amaya](www.linkedin.com/in/david-amaya-)**
 * Instagram ( Hobby Profile | Geometry Dash): **[TuTioElPollo](https://www.instagram.com/tutioelpollo)**
