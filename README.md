@@ -17,6 +17,7 @@
   <img src="https://cdn-ankpc.nitrocdn.com/CXPATxiuOnLCmBDTxjvMhJHZsrQOcxUs/assets/images/source/rev-fa96a90/www.striim.com/wp-content/themes/striim2022/images/connectors_icons/white/microsoftsqlserver.png" width="120" height="90" />
   <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" width="70" height="70" />
   <img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" width="70" height="70" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" width="90" height="90">
   <img src="https://user-images.githubusercontent.com/62670505/195007613-18dce7c2-a73d-43eb-b454-ffbabfa802b6.png" width="90" height="90" />         
 </div>
 
