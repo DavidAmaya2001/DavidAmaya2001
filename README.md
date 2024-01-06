@@ -11,7 +11,7 @@ Computer Science Engineering
 ## Skills
 <div style="display:inline-block">
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" width="90" height="90" style="margin:0 20px"/>
-  <img src="https://www.clipartmax.com/png/full/354-3543373_spring-framework-logo-svg-png-download-java-spring.png" width="90"         
+  <img src="https://www.clipartmax.com/png/full/354-3543373_spring-framework-logo-svg-png-download-java-spring.png" width="120"         
        height="90" style="margin:0 20px"/>
   <img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" width="180" height="90" style="margin:0 20px"/>
   <img src="https://cdn-ankpc.nitrocdn.com/CXPATxiuOnLCmBDTxjvMhJHZsrQOcxUs/assets/images/source/rev-fa96a90/www.striim.com/wp-content/themes/striim2022/images/connectors_icons/white/microsoftsqlserver.png" width="120" height="90" style="margin:0 20px"/>
